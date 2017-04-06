@@ -1,15 +1,8 @@
 #!/bin/bash
 
 teams=(
-  benchmarking
-  content-tools
-  navigation
-  content-transformation
-  email
-  search
-  govuk-infrastructure
-  servicemanual
-  templateconsolidation
+  testintegration
+  feature-monsters
 )
 
 for team in ${teams[*]}; do
